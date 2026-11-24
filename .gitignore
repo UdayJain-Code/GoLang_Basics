@@ -1,0 +1,10 @@
+# Executables
+*.exe
+*.out
+*.test
+
+# IDE
+.vscode/
+
+# Environment files
+.env
